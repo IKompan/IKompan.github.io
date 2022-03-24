@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to the DCE/DSC perfusion lexicon documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -12,6 +12,8 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development.
+   
+   
 
 Contents
 --------
